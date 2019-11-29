@@ -1,0 +1,2 @@
+include ':app', ':domeunity'
+rootProject.name='RZ_Dome_SDK'
